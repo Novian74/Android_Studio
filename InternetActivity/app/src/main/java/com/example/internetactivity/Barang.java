@@ -18,6 +18,7 @@ public class Barang extends AppCompatActivity {
     }
 
     public void load() {
+
         tvBarang = findViewById(R.id.tvBarang);
     }
 
